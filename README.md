@@ -9,6 +9,9 @@
 
 [![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
+# Disclaimer
+- Ini Adalah Sebuah `Script Tools` Yang Digunakan Untuk Keperluan Edukasi Dan Pengujian Yang Tidak Boleh Dipersalahgunakan Oleh Siapapun.
+
 # Syarat & Ketentuan 
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
 <h2 align="center">
@@ -25,7 +28,7 @@ Unduh Script Dibawah Ini
 
 👇👇
 
-[![Script Hack WhatsApp](https://img.shields.io/badge/ScriptHackWhatsApp-%2B-yellow.svg?style=flat)](https://sfile.mobi/8B7bnjgL2EZ)
+[![Script Hack WhatsApp](https://img.shields.io/badge/ScriptHackWhatsApp-%2B-yellow.svg?style=flat)](https://sfile.co/g08QGE50YkA)
 
 # Like Share Comment And Subscribe
 

@@ -10,7 +10,8 @@
 [![Powered By:kiplymacho](https://img.shields.io/badge/PoweredBy:kiplymacho-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
 # Disclaimer
-- Ini Adalah Sebuah `Script Tools` Yang Digunakan Untuk Keperluan Edukasi Dan Pengujian Yang Tidak Boleh Dipersalahgunakan Oleh Siapapun.
+- **`Script Tools`** Ini Adalah Cara yang sangat sederhana dan mudah untuk mengkloning akun WhatsApp ke perangkat sendiri.
+- **`Script Tools`** Yang Digunakan Ini Adalah Untuk Keperluan Edukasi Dan Pengujian Yang Tidak Boleh Dipersalahgunakan Oleh Siapapun.
 
 # Syarat & Ketentuan 
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
